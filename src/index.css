@@ -33,7 +33,7 @@ body {
     /* height: 500px; */
     /* border: 1px solid black; */
     margin: 200px auto;
-    margin-bottom: 200px;
+    margin-bottom: 5px;
     padding: 10px;
     text-align: center;
 }
@@ -89,6 +89,10 @@ a {
     font-weight: 500;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .instruction-header {
     margin-bottom: 50px;
     /* letter-spacing: 1px; */
@@ -139,4 +143,11 @@ img {
     margin-left: 50px;
     /* padding-left: 30px; */
     /* padding-bottom: 200px; */
+}
+
+.results {
+    font-weight: 900;
+    font-size: 1.1rem;
+    color: brown;
+    margin-bottom: 5rem;
 }
