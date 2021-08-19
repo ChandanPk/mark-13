@@ -155,3 +155,7 @@ img {
 #space {
     margin: 0;
 }
+
+.footer > p {
+    padding-top: 4.5em;
+}
