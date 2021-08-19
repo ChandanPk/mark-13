@@ -173,10 +173,9 @@ const Home = () => {
     return (
         <>
             <div className="top-container">
-                <div className="grid-theme"> <p id="theme">click to change theme</p><a href="https://github.com/ChandanPk/mark-13" id="github">Github Repo</a></div>
+                <div className="grid-theme"> <a href="https://chandankumar-portfolio.netlify.app/" id="theme">Portfolio</a><a href="https://github.com/ChandanPk/mark-13" id="github">Github Repo</a></div>
 
                 <div className="grid">
-
                     <div className="box">
                         <h1 className="title">Check out if your <span className="word-style">Birthdate</span> is <span className="word-style">Palidrome.</span></h1>
                         <p>A palindrome is a word/number which reads the same backward as forward</p>
